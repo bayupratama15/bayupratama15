@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @bayupratama15
-- 👀 I’m interested in Programming etc
-- 🌱 I’m currently learning Blockhain
+- 👋 Hi, I’m Muhammad Bayu Pratama
+- 👀 I’m interested in Software Developer 
+- 🌱 I’m currently learning Blockchain
 
 
 <!---
