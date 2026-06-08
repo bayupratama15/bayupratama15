@@ -1,103 +1,244 @@
-# Hi, I'm Muhammad Bayu Pratama 👋
+<div align="center">
 
-<p align="left">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=25C2A0&width=435&lines=Full-Stack+Software+Engineer;Blockchain+%26+Web3+Developer;Machine+Learning+Explorer" alt="Typing SVG" /></a>
+<!-- Animated Wave Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Muhammad%20Bayu%20Pratama&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Engineer%20%7C%20Blockchain%20Developer%20%7C%20ML%20Explorer&descAlignY=51&descAlign=50" />
+
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=25C2A0&center=true&vCenter=true&multiline=false&width=700&lines=Building+scalable+backend+systems+%F0%9F%9A%80;Exploring+Blockchain+%26+Web3+technology+%E2%9B%93%EF%B8%8F;Crafting+intelligent+ML+models+%F0%9F%A7%A0;Automating+the+future+with+code+%F0%9F%A4%96" alt="Typing SVG" />
+</a>
+
+<br/>
+<br/>
+
+<!-- Profile View Counter & Social Badges -->
+<img src="https://komarev.com/ghpvc/?username=bayupratama15&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/bayupratama15?label=Followers&style=social" alt="GitHub Followers" />
+
+</div>
+
+---
+
+## 💫 About Me
+
+```typescript
+const developer = {
+  name: "Muhammad Bayu Pratama",
+  location: "Semarang, Central Java, Indonesia 🇮🇩",
+  role: "Full-Stack Software Engineer",
+  passions: [
+    "Building high-performance backend systems",
+    "Decentralized apps with Web3 & Blockchain",
+    "Machine Learning & pattern recognition",
+    "Algorithmic trading & financial automation",
+  ],
+  currentlyBuilding: "A fully automated Futures Trading Engine (TypeScript)",
+  currentlyLearning: ["Solidity", "DeFi Protocols", "Smart Contracts"],
+  funFact: "I prefer writing code over sleeping 🌙",
+};
+```
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+### ⛓️ Blockchain & Web3
+<p>
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Smart_Contracts-6F4CBA?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/DeFi-00FFA3?style=for-the-badge&logo=ethereum&logoColor=black" />
+</p>
+
+### ⚙️ Backend Development
+<p>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
+
+### 💻 Frontend Development
+<p>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+### 🧠 Machine Learning & Data Science
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Perceptron%20%2F%20Neural%20Nets-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+</p>
+
+### 📱 Mobile Development
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+</p>
+
+### 💾 Databases, DevOps & Tools
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Telegram_Bot_API-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 ---
 
-### 💫 About Me
-
-I am a passionate **Full-Stack Software Engineer** based in Semarang, Central Java, Indonesia. I specialize in building highly scalable backend systems, clean user-centric frontends, and exploring the frontiers of decentralized tech and machine learning.
-
-- 🌐 **Interests:** Web3, Smart Contracts & Blockchain development, Machine Learning algorithms, and Algorithmic Trading.
-- ⚡ **Fun Fact:** I love building automated systems and exploring trading models (check out my trading-future repo!).
-- 📍 **Location:** Semarang, Central Java, Indonesia 🇮🇩
-
----
-
-### 🛠️ Tech Stack & Skills
+## 🚀 Featured Projects
 
 <table>
   <tr>
-    <td valign="top" width="50%">
-      <h4>⛓️ Blockchain & Web3</h4>
-      <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=flat-square&logo=solidity&logoColor=black" alt="Solidity" />
-      <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" alt="Ethereum" />
-      <img src="https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3dotjs&logoColor=white" alt="Web3.js" />
-      <img src="https://img.shields.io/badge/Smart%20Contracts-FF5722?style=flat-square&logo=ethereum&logoColor=white" alt="Smart Contracts" />
+    <td width="50%" valign="top">
+      <h3>📈 Trading Future Engine</h3>
+      <a href="https://github.com/bayupratama15/trading-future">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bayupratama15&repo=trading-future&theme=tokyonight&hide_border=true" alt="Trading Future" />
+      </a>
+      <br/>
+      <p>
+        A fully automated <strong>Futures Trading Engine</strong> built with TypeScript. Features real-time market data analysis, technical indicator confluence scoring, and instant Telegram alert notifications. Designed for high-frequency signal detection.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Telegram_API-2CA5E0?style=flat-square&logo=telegram&logoColor=white" />
+        <img src="https://img.shields.io/badge/Algorithmic_Trading-00C176?style=flat-square" />
+      </p>
     </td>
-    <td valign="top" width="50%">
-      <h4>⚙️ Backend Development</h4>
-      <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
-      <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
+    <td width="50%" valign="top">
+      <h3>🧠 Nutrition Classification (Perceptron)</h3>
+      <a href="https://github.com/bayupratama15/klasifikasi-gizi-perceptron">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bayupratama15&repo=klasifikasi-gizi-perceptron&theme=tokyonight&hide_border=true" alt="Klasifikasi Gizi" />
+      </a>
+      <br/>
+      <p>
+        A <strong>Machine Learning classifier</strong> built from scratch using a Perceptron neural network to classify children's nutrition levels. Demonstrates a clean ML pipeline: data preprocessing, training, evaluation, and visualization.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Perceptron-FF6F00?style=flat-square" />
+      </p>
     </td>
   </tr>
   <tr>
-    <td valign="top" width="50%">
-      <h4>💻 Frontend Development</h4>
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js" />
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+    <td width="50%" valign="top">
+      <h3>🏨 Hotel Review Classifier</h3>
+      <a href="https://github.com/bayupratama15/classification-review-hotel">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bayupratama15&repo=classification-review-hotel&theme=tokyonight&hide_border=true" alt="Hotel Review Classifier" />
+      </a>
+      <br/>
+      <p>
+        An <strong>NLP-based sentiment analysis</strong> project that classifies hotel reviews into positive/negative categories. Built using Jupyter Notebook with text preprocessing, vectorization, and multi-model comparison.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/NLP-9C27B0?style=flat-square" />
+        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+      </p>
     </td>
-    <td valign="top" width="50%">
-      <h4>🧠 Machine Learning & Data</h4>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-      <img src="https://img.shields.io/badge/Machine%20Learning-3776AB?style=flat-square&logo=scikitlearn&logoColor=white" alt="ML" />
+    <td width="50%" valign="top">
+      <h3>🔗 Full-Stack CRUD App (Laravel + Vue)</h3>
+      <a href="https://github.com/bayupratama15/tutorial-crud-backend-laravel">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bayupratama15&repo=tutorial-crud-backend-laravel&theme=tokyonight&hide_border=true" alt="Laravel CRUD" />
+      </a>
+      <br/>
+      <p>
+        A <strong>complete full-stack REST application</strong> with a separated frontend (Vue.js) and backend (Laravel API). Demonstrates proper API design, token authentication, and modern SPA architecture.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square" />
+      </p>
     </td>
   </tr>
   <tr>
-    <td valign="top" width="100%" colspan="2">
-      <h4>💾 Databases, DevOps & Tools</h4>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    <td width="50%" valign="top">
+      <h3>⚡ Go HTTP Server</h3>
+      <a href="https://github.com/bayupratama15/go-say-hello">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bayupratama15&repo=go-say-hello&theme=tokyonight&hide_border=true" alt="Go Say Hello" />
+      </a>
+      <br/>
+      <p>
+        A lightweight <strong>HTTP server built with Go</strong>, demonstrating the power and simplicity of Go's standard library. Highlights Go's concurrency model and blazing-fast performance for web services.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+        <img src="https://img.shields.io/badge/HTTP_Server-25C2A0?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📱 Android Hello World (Kotlin)</h3>
+      <a href="https://github.com/bayupratama15/app-say-hello">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bayupratama15&repo=app-say-hello&theme=tokyonight&hide_border=true" alt="App Say Hello" />
+      </a>
+      <br/>
+      <p>
+        An <strong>Android mobile app built with Kotlin</strong> demonstrating native Android development fundamentals including Activity lifecycle, UI components, and modern Android SDK usage.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
+      </p>
     </td>
   </tr>
 </table>
 
 ---
 
-### 🚀 Featured Projects
+## 📊 GitHub Analytics
 
-Here are some of the interesting projects I've built or am currently developing:
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bayupratama15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayupratama15&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</div>
 
-- 📈 **[Trading Future](https://github.com/bayupratama15/trading-future)** - An automated trading engine featuring technical confluence scoring and Telegram alert integration.
-- 🧠 **[klasifikasi-gizi-perceptron](https://github.com/bayupratama15/klasifikasi-gizi-perceptron)** - Machine learning model using Perceptron for classification of nutrition levels.
-- 🏨 **[classification-review-hotel](https://github.com/bayupratama15/classification-review-hotel)** - Hotel review classifier focusing on sentiment analysis.
-- 🔗 **[tutorial-crud-backend-laravel](https://github.com/bayupratama15/tutorial-crud-backend-laravel)** / **[tutorial-crud-frontend-vue](https://github.com/bayupratama15/tutorial-crud-frontend-vue)** - A full CRUD implementation showcase separating Vue.js and Laravel APIs.
+<div align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=bayupratama15&theme=tokyonight&hide_border=true" />
+</div>
 
----
-
-### 📊 GitHub Analytics & Streak
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bayupratama15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Muhammad Bayu's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayupratama15&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bayupratama15&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bayupratama15&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</div>
 
 ---
 
-### 🤝 Connect with Me
+## 🏆 GitHub Trophies
 
-<p align="left">
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bayupratama15&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
+</div>
+
+---
+
+## 🤝 Connect with Me
+
+<div align="center">
   <a href="mailto:bolehjugaemail@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
+  &nbsp;
+  <a href="https://github.com/bayupratama15">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
 
----
-<p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
-</p>
+<br/>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+</div>
