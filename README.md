@@ -196,6 +196,28 @@ const developer = {
 
 ---
 
+## 🐍 Contribution Snake
+
+> *Watch the snake eat my GitHub contributions!* — Refreshes every 12 hours automatically via GitHub Actions.
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bayupratama15/bayupratama15/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bayupratama15/bayupratama15/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/bayupratama15/bayupratama15/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</div>
+
+---
+
+## 💬 Dev Quote of the Day
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" width="90%" />
+</div>
+
+---
+
 ## 🤝 Connect with Me
 
 <div align="center">
