@@ -185,26 +185,13 @@ const developer = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=bayupratama15&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayupratama15&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=bayupratama15&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bayupratama15&theme=tokyonight&hide_border=true&card_width=700" width="70%" alt="GitHub Streak" />
 </div>
 
 <br/>
 
-### 📅 GitHub Profile Summary
-
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bayupratama15&theme=tokyonight" width="98%" alt="Profile Details" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bayupratama15&theme=tokyonight" width="32%" alt="Repos Per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bayupratama15&theme=tokyonight" width="32%" alt="Most Commit Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bayupratama15&theme=tokyonight&utcOffset=7" width="32%" alt="Productive Time" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bayupratama15&theme=tokyo-night&hide_border=true&area=true&custom_title=Muhammad%20Bayu's%20Contribution%20Graph" width="98%" alt="Contribution Graph" />
 </div>
 
 ---
@@ -213,11 +200,11 @@ const developer = {
 
 <div align="center">
 
-| 🔨 Building | 📚 Learning | 🎯 Next Goal |
-|:---:|:---:|:---:|
-| ![Trading Engine](https://img.shields.io/badge/🤖_Automated_Trading_Engine-in_progress-F7B731?style=flat-square) | ![Solidity](https://img.shields.io/badge/Solidity_Smart_Contracts-studying-363636?style=flat-square&logo=solidity&logoColor=white) | ![DeFi](https://img.shields.io/badge/Deploy_First_DeFi_Contract-planned-00FFA3?style=flat-square) |
-| ![Confluence](https://img.shields.io/badge/Confluence_Score_System-in_progress-25C2A0?style=flat-square) | ![Web3.js](https://img.shields.io/badge/Web3.js_&_Ethers.js-studying-F16822?style=flat-square&logo=web3dotjs&logoColor=white) | ![Blockchain App](https://img.shields.io/badge/Full_DApp_with_React-planned-627EEA?style=flat-square) |
-| ![Telegram Bot](https://img.shields.io/badge/Telegram_Signal_Bot-in_progress-2CA5E0?style=flat-square&logo=telegram&logoColor=white) | ![DeFi](https://img.shields.io/badge/DeFi_Protocols-researching-00C176?style=flat-square) | ![ML Trading](https://img.shields.io/badge/ML_Price_Prediction_Model-planned-FF6F00?style=flat-square) |
+| 🔨 What I'm Building | 📚 What I'm Learning | 🎯 Next Goal |
+|:---|:---|:---|
+| 🤖 Automated Futures Trading Engine | ⛓️ Solidity & Smart Contracts | 🚀 Deploy my first DeFi dApp |
+| 📊 Technical Confluence Scoring System | 🌐 Web3.js & Ethers.js | 🧠 Build ML Price Prediction Model |
+| 🔔 Telegram Signal Alert Bot | 💹 DeFi Protocols & Tokenomics | 📱 Full DApp with React + Web3 |
 
 </div>
 
@@ -225,22 +212,20 @@ const developer = {
 
 ## 🐍 Contribution Snake
 
-> *Watch the snake eat my GitHub contributions!* — Refreshes every 12 hours automatically via GitHub Actions.
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bayupratama15/bayupratama15/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bayupratama15/bayupratama15/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/bayupratama15/bayupratama15/output/github-contribution-grid-snake.svg" width="100%" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/bayupratama15/bayupratama15/output/github-contribution-grid-snake.svg" width="98%" />
   </picture>
 </div>
 
 ---
 
-## 💬 Dev Quote of the Day
+## 💬 Random Dev Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" width="90%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" width="80%" />
 </div>
 
 ---
@@ -251,7 +236,7 @@ const developer = {
   <a href="mailto:bolehjugaemail@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://github.com/bayupratama15">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
