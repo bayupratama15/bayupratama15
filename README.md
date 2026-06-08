@@ -101,118 +101,83 @@ const developer = {
 
 ## 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📈 Trading Future Engine</h3>
-      <a href="https://github.com/bayupratama15/trading-future">
-        <img src="https://gh-card.dev/repos/bayupratama15/trading-future.svg?fullname=1" alt="Trading Future" width="100%" />
-      </a>
-      <br/>
-      <p>
-        A fully automated <strong>Futures Trading Engine</strong> built with TypeScript. Features real-time market data analysis, technical indicator confluence scoring, and instant Telegram alert notifications. Designed for high-frequency signal detection.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Telegram_API-2CA5E0?style=flat-square&logo=telegram&logoColor=white" />
-        <img src="https://img.shields.io/badge/Algorithmic_Trading-00C176?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧠 Nutrition Classification (Perceptron)</h3>
-      <a href="https://github.com/bayupratama15/klasifikasi-gizi-perceptron">
-        <img src="https://gh-card.dev/repos/bayupratama15/klasifikasi-gizi-perceptron.svg?fullname=1" alt="Klasifikasi Gizi" width="100%" />
-      </a>
-      <br/>
-      <p>
-        A <strong>Machine Learning classifier</strong> built from scratch using a Perceptron neural network to classify children's nutrition levels. Demonstrates a clean ML pipeline: data preprocessing, training, evaluation, and visualization.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-        <img src="https://img.shields.io/badge/Perceptron-FF6F00?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏨 Hotel Review Classifier</h3>
-      <a href="https://github.com/bayupratama15/classification-review-hotel">
-        <img src="https://gh-card.dev/repos/bayupratama15/classification-review-hotel.svg?fullname=1" alt="Hotel Review Classifier" width="100%" />
-      </a>
-      <br/>
-      <p>
-        An <strong>NLP-based sentiment analysis</strong> project that classifies hotel reviews into positive/negative categories. Built using Jupyter Notebook with text preprocessing, vectorization, and multi-model comparison.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/NLP-9C27B0?style=flat-square" />
-        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔗 Full-Stack CRUD App (Laravel + Vue)</h3>
-      <a href="https://github.com/bayupratama15/tutorial-crud-backend-laravel">
-        <img src="https://gh-card.dev/repos/bayupratama15/tutorial-crud-backend-laravel.svg?fullname=1" alt="Laravel CRUD" width="100%" />
-      </a>
-      <br/>
-      <p>
-        A <strong>complete full-stack REST application</strong> with a separated frontend (Vue.js) and backend (Laravel API). Demonstrates proper API design, token authentication, and modern SPA architecture.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚡ Go HTTP Server</h3>
-      <a href="https://github.com/bayupratama15/go-say-hello">
-        <img src="https://gh-card.dev/repos/bayupratama15/go-say-hello.svg?fullname=1" alt="Go Say Hello" width="100%" />
-      </a>
-      <br/>
-      <p>
-        A lightweight <strong>HTTP server built with Go</strong>, demonstrating the power and simplicity of Go's standard library. Highlights Go's concurrency model and blazing-fast performance for web services.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-        <img src="https://img.shields.io/badge/HTTP_Server-25C2A0?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📱 Android Hello World (Kotlin)</h3>
-      <a href="https://github.com/bayupratama15/app-say-hello">
-        <img src="https://gh-card.dev/repos/bayupratama15/app-say-hello.svg?fullname=1" alt="App Say Hello" width="100%" />
-      </a>
-      <br/>
-      <p>
-        An <strong>Android mobile app built with Kotlin</strong> demonstrating native Android development fundamentals including Activity lifecycle, UI components, and modern Android SDK usage.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-</table>
+> 💡 Click on any project title to explore the repository!
+
+---
+
+### 📈 [trading-future](https://github.com/bayupratama15/trading-future) — Automated Trading Engine
+> A fully automated **Futures Trading Engine** built with TypeScript. Performs real-time market data analysis, technical indicator confluence scoring, and sends instant Telegram notifications when high-probability signals are detected.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Telegram Bot API](https://img.shields.io/badge/Telegram_Bot_API-2CA5E0?style=flat-square&logo=telegram&logoColor=white)
+![Algorithmic Trading](https://img.shields.io/badge/Algorithmic_Trading-00C176?style=flat-square)
+![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)
+
+---
+
+### 🧠 [klasifikasi-gizi-perceptron](https://github.com/bayupratama15/klasifikasi-gizi-perceptron) — Nutrition ML Classifier
+> A **Machine Learning classifier** built from scratch using a **Perceptron neural network** to classify children's nutrition levels. Demonstrates a clean ML pipeline: data preprocessing, training, evaluation, and visualization — all in Jupyter Notebook.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Perceptron_Neural_Net-FF6F00?style=flat-square)
+![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)
+
+---
+
+### 🏨 [classification-review-hotel](https://github.com/bayupratama15/classification-review-hotel) — Hotel Review Sentiment Analysis
+> An **NLP-based sentiment analysis** project that classifies hotel reviews as positive or negative. Features text preprocessing, TF-IDF vectorization, and multi-model comparison (Naive Bayes, SVM, Decision Tree) with performance evaluation.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![NLP](https://img.shields.io/badge/Natural_Language_Processing-9C27B0?style=flat-square)
+![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)
+
+---
+
+### 🔗 [tutorial-crud-backend-laravel](https://github.com/bayupratama15/tutorial-crud-backend-laravel) + [frontend-vue](https://github.com/bayupratama15/tutorial-crud-frontend-vue) — Full-Stack CRUD App
+> A **complete full-stack REST application** with a cleanly separated backend (Laravel RESTful API) and frontend (Vue.js SPA). Covers authentication, CRUD operations, and proper API design patterns — great reference for junior developers.
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square)
+![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)
+
+---
+
+### ⚡ [go-say-hello](https://github.com/bayupratama15/go-say-hello) — Go HTTP Server
+> A lightweight **HTTP server built with Go's standard library** — no external frameworks. Demonstrates Go's powerful concurrency model, goroutines, and the blazing-fast performance that makes Go ideal for high-throughput web services.
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![HTTP Server](https://img.shields.io/badge/HTTP_Server-25C2A0?style=flat-square)
+![Concurrency](https://img.shields.io/badge/Goroutines-00ADD8?style=flat-square)
+![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)
+
+---
+
+### 📱 [app-say-hello](https://github.com/bayupratama15/app-say-hello) — Android App (Kotlin)
+> A native **Android mobile application** built with Kotlin, demonstrating Android SDK fundamentals including Activity lifecycle management, UI component binding, and Kotlin idioms for clean mobile development.
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android_SDK-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Mobile](https://img.shields.io/badge/Mobile_Dev-0075F2?style=flat-square)
+![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bayupratama15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayupratama15&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=bayupratama15&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayupratama15&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=bayupratama15&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bayupratama15&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=bayupratama15&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 ---
@@ -220,7 +185,7 @@ const developer = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bayupratama15&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=bayupratama15&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -242,3 +207,4 @@ const developer = {
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 </div>
+
