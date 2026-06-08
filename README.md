@@ -106,7 +106,7 @@ const developer = {
     <td width="50%" valign="top">
       <h3>📈 Trading Future Engine</h3>
       <a href="https://github.com/bayupratama15/trading-future">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bayupratama15&repo=trading-future&theme=tokyonight&hide_border=true" alt="Trading Future" />
+        <img src="https://gh-card.dev/repos/bayupratama15/trading-future.svg?fullname=1" alt="Trading Future" width="100%" />
       </a>
       <br/>
       <p>
@@ -121,7 +121,7 @@ const developer = {
     <td width="50%" valign="top">
       <h3>🧠 Nutrition Classification (Perceptron)</h3>
       <a href="https://github.com/bayupratama15/klasifikasi-gizi-perceptron">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bayupratama15&repo=klasifikasi-gizi-perceptron&theme=tokyonight&hide_border=true" alt="Klasifikasi Gizi" />
+        <img src="https://gh-card.dev/repos/bayupratama15/klasifikasi-gizi-perceptron.svg?fullname=1" alt="Klasifikasi Gizi" width="100%" />
       </a>
       <br/>
       <p>
@@ -138,7 +138,7 @@ const developer = {
     <td width="50%" valign="top">
       <h3>🏨 Hotel Review Classifier</h3>
       <a href="https://github.com/bayupratama15/classification-review-hotel">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bayupratama15&repo=classification-review-hotel&theme=tokyonight&hide_border=true" alt="Hotel Review Classifier" />
+        <img src="https://gh-card.dev/repos/bayupratama15/classification-review-hotel.svg?fullname=1" alt="Hotel Review Classifier" width="100%" />
       </a>
       <br/>
       <p>
@@ -153,7 +153,7 @@ const developer = {
     <td width="50%" valign="top">
       <h3>🔗 Full-Stack CRUD App (Laravel + Vue)</h3>
       <a href="https://github.com/bayupratama15/tutorial-crud-backend-laravel">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bayupratama15&repo=tutorial-crud-backend-laravel&theme=tokyonight&hide_border=true" alt="Laravel CRUD" />
+        <img src="https://gh-card.dev/repos/bayupratama15/tutorial-crud-backend-laravel.svg?fullname=1" alt="Laravel CRUD" width="100%" />
       </a>
       <br/>
       <p>
@@ -170,7 +170,7 @@ const developer = {
     <td width="50%" valign="top">
       <h3>⚡ Go HTTP Server</h3>
       <a href="https://github.com/bayupratama15/go-say-hello">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bayupratama15&repo=go-say-hello&theme=tokyonight&hide_border=true" alt="Go Say Hello" />
+        <img src="https://gh-card.dev/repos/bayupratama15/go-say-hello.svg?fullname=1" alt="Go Say Hello" width="100%" />
       </a>
       <br/>
       <p>
@@ -184,7 +184,7 @@ const developer = {
     <td width="50%" valign="top">
       <h3>📱 Android Hello World (Kotlin)</h3>
       <a href="https://github.com/bayupratama15/app-say-hello">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bayupratama15&repo=app-say-hello&theme=tokyonight&hide_border=true" alt="App Say Hello" />
+        <img src="https://gh-card.dev/repos/bayupratama15/app-say-hello.svg?fullname=1" alt="App Say Hello" width="100%" />
       </a>
       <br/>
       <p>
