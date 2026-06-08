@@ -182,10 +182,16 @@ const developer = {
 
 ---
 
-## 🏆 GitHub Trophies
+## 🎯 Currently Building & Learning
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bayupratama15&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+
+| 🔨 Building | 📚 Learning | 🎯 Next Goal |
+|:---:|:---:|:---:|
+| ![Trading Engine](https://img.shields.io/badge/🤖_Automated_Trading_Engine-in_progress-F7B731?style=flat-square) | ![Solidity](https://img.shields.io/badge/Solidity_Smart_Contracts-studying-363636?style=flat-square&logo=solidity&logoColor=white) | ![DeFi](https://img.shields.io/badge/Deploy_First_DeFi_Contract-planned-00FFA3?style=flat-square) |
+| ![Confluence](https://img.shields.io/badge/Confluence_Score_System-in_progress-25C2A0?style=flat-square) | ![Web3.js](https://img.shields.io/badge/Web3.js_&_Ethers.js-studying-F16822?style=flat-square&logo=web3dotjs&logoColor=white) | ![Blockchain App](https://img.shields.io/badge/Full_DApp_with_React-planned-627EEA?style=flat-square) |
+| ![Telegram Bot](https://img.shields.io/badge/Telegram_Signal_Bot-in_progress-2CA5E0?style=flat-square&logo=telegram&logoColor=white) | ![DeFi](https://img.shields.io/badge/DeFi_Protocols-researching-00C176?style=flat-square) | ![ML Trading](https://img.shields.io/badge/ML_Price_Prediction_Model-planned-FF6F00?style=flat-square) |
+
 </div>
 
 ---
