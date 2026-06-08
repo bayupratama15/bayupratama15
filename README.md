@@ -97,6 +97,19 @@ const developer = {
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
+### 📈 Skill Proficiency
+
+```
+ TypeScript    ████████████████████░░░░   82%  ⚡ Expert
+ Laravel / PHP ███████████████████░░░░░   78%  🔥 Advanced
+ Vue.js        ██████████████████░░░░░░   74%  💪 Advanced
+ Python / ML   █████████████████░░░░░░░   70%  🧠 Advanced
+ Go            ████████████████░░░░░░░░   65%  🚀 Intermediate+
+ Kotlin        █████████████░░░░░░░░░░░   55%  📱 Intermediate
+ Solidity      ████████████░░░░░░░░░░░░   48%  ⛓️ Learning
+ Web3 / DeFi   ██████████░░░░░░░░░░░░░░   42%  🌱 Exploring
+```
+
 ---
 
 ## 🚀 Featured Projects
@@ -178,6 +191,20 @@ const developer = {
 
 <div align="center">
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=bayupratama15&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</div>
+
+<br/>
+
+### 📅 GitHub Profile Summary
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bayupratama15&theme=tokyonight" width="98%" alt="Profile Details" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bayupratama15&theme=tokyonight" width="32%" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bayupratama15&theme=tokyonight" width="32%" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bayupratama15&theme=tokyonight&utcOffset=7" width="32%" alt="Productive Time" />
 </div>
 
 ---
